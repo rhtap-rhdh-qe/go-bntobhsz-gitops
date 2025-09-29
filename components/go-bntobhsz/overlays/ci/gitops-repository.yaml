@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: go-bntobhsz-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/go-bntobhsz-gitops
